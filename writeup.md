@@ -8,10 +8,11 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-"Starting point"
-![start][./test_images/solidWhiteCurve.jpg]
-"End result"
-![result]:[./examples/laneLines_thirdPass.jpg]
+### Starting point
+![start](https://github.com/Gre3nLioN/CarND-LaneLines-P1/blob/master/test_images/solidWhiteCurve.jpg)
+
+### End result
+![result](https://github.com/Gre3nLioN/CarND-LaneLines-P1/blob/master/examples/laneLines_thirdPass.jpg)
 
 ---
 
